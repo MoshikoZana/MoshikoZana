@@ -1,16 +1,23 @@
-### Hi there 👋
+# ☄️ Moshiko Zana
 
-<!--
-**MoshikoZana/MoshikoZana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **`DevOps Engineer (Automation/Programming/Cloud Specialist)`**
 
-Here are some ideas to get you started:
+As a DevOps engineer, I thrive in the dynamic environment of development and operations, utilizing my love for programming to craft efficient solutions. From building deployment pipelines to optimizing workflows, I relish the challenge of problem-solving and continuous learning. Whether immersed in coding or exploring virtual worlds in video games, I am passionate about growth and innovation in all things tech.🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🧰 Languages and Tools
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kubernetes.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Jenkins-Dark.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Grafana-Dark.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prometheus.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Elasticsearch-Dark.svg"/>
+
+
+
+
