@@ -2,7 +2,7 @@
 
 🔭 **`DevOps Engineer (Automation/Programming/Cloud Specialist)`**
 
-As a DevOps engineer, I thrive in the dynamic environment of development and operations, utilizing my love for programming to craft efficient solutions. From building deployment pipelines to optimizing workflows, I relish the challenge of problem-solving and continuous learning. Whether immersed in coding or exploring virtual worlds in video games, I am passionate about growth and innovation in all things tech.🚀
+Hello World, I'm Moshiko. I thrive in the dynamic development and operations environment, utilizing my love for programming to craft efficient solutions. From building deployment pipelines to optimizing workflows, I relish the challenge of problem-solving and continuous learning. Whether immersed in coding or exploring virtual worlds in video games, I am passionate about growth and innovation in all things tech.🚀
 
 ---
 ### 🧰 Languages and Tools
