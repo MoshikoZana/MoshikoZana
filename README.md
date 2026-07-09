@@ -1,8 +1,4 @@
-# ☄️ Moshiko Zana
-
-🔭 **`DevOps Engineer (Automation/Programming/Cloud Specialist)`**
-
-Hello World, I'm Moshiko. I thrive in the dynamic development and operations environment, utilizing my love for programming to craft efficient solutions. From building deployment pipelines to optimizing workflows, I relish the challenge of problem-solving and continuous learning. Whether immersed in coding or exploring virtual worlds in video games, I am passionate about growth and innovation in all things tech. Curious about my latest work? Check out my newest project repository - an Object Detection Service.🚀
+<img width="1343" height="1171" alt="bc554270-5f3d-472e-a9fa-9497a84a5412" src="https://github.com/user-attachments/assets/6c125147-5c64-4a82-86fc-06d676d632db" />
 
 ---
 ### 🧰 Languages and Tools
